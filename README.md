@@ -12,7 +12,6 @@ This tool is ideal for researchers and developers needing to digitize data from 
 - 📈 **Scaling options**: Support for both linear and logarithmic scaling on the x-axis.
 - 🔍 **Data color identification**: Identify potential data colors used in the SVG file.
 
-
 ---
 
 ## Before you start:
@@ -58,7 +57,7 @@ For local development or to use as a Python package in your environment:
 
 ```bash
 git clone https://github.com/sucean/SVGDataripper.git
-cd alphabetasquared
+cd SVGDataripper
 pip install -e .
 ```
 
